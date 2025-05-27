@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan
+Soy un programador junior con conocimientos en HTML, CSS, JavaScript, Spring Boot, y ASP.NET MVC. Me gusta crear páginas web funcionales y ayudar a personas o negocios a tener presencia online.
 
-<!--
-**Eduardo1300/eduardo1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologías que uso:
+- HTML5, CSS3, JavaScript
+- ASP.NET MVC, C#
+- Spring Boot, Java
+- SQL Server, MySQL
+- Git y GitHub
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Cómo contactarme:
+- Email: eduardovaldivia130@outlook.com
+- LinkedIn: [www.linkedin.com/in/christopher-eduardo-valdivia-baca-899051318)
+
