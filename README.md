@@ -1,5 +1,5 @@
-# ¡Hola! 👋 Soy Juan
-Soy un programador junior con conocimientos en HTML, CSS, JavaScript, Spring Boot, y ASP.NET MVC. Me gusta crear páginas web funcionales y ayudar a personas o negocios a tener presencia online.
+# ¡Hola! 👋 Soy Christopher
+Soy un programador con conocimientos en HTML, CSS, JavaScript, Spring Boot, y ASP.NET MVC. Me gusta crear páginas web funcionales y ayudar a personas o negocios a tener presencia online.
 
 ## 🛠️ Tecnologías que uso:
 - HTML5, CSS3, JavaScript
