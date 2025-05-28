@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Christopher Eduardo Valdivia Baca
 
-Soy un programador con conocimientos en desarrollo web y backend, especializado en tecnologías como HTML, CSS, JavaScript, Spring Boot, y ASP.NET MVC. Me apasiona crear aplicaciones funcionales que ayuden a personas y negocios a tener presencia digital.
+Soy un programador Junior con conocimientos en desarrollo web y backend, especializado en tecnologías como HTML, CSS, JavaScript, Spring Boot, y ASP.NET MVC. Me apasiona crear aplicaciones funcionales que ayuden a personas y negocios a tener presencia digital.
 
 ## 🛠️ Tecnologías que uso:
 
