@@ -63,7 +63,7 @@ Desarrollador Full Stack Junior con experiencia en desarrollo de sistemas web ut
 
 ### 🌐 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com](https://www.linkedin.com/in/christopher-eduardo-valdivia-baca-899051318/))
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:eduardovaldivia130@outlook.es)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/Eduardo1300)
 
