@@ -7,7 +7,7 @@
 Desarrollador Full Stack Junior con experiencia en desarrollo de sistemas web utilizando Java (Spring Boot), ASP.NET MVC, PHP y frameworks modernos como Angular y React.
 
 - 🔭 Actualmente desarrollando un sistema completo de **Tienda Online** (NestJS + React + PostgreSQL)
-- 🌱 Aprendiendo y usando **NestJS 11, PostgreSQL, TypeORM, JWT, Docker**
+- 🌱 Aprendiendo y usando **NestJS 11, PostgreSQL, TypeORM, JWT**
 - 📫 Contáctame: [eduardovaldivia130@outlook.es](mailto:eduardovaldivia130@outlook.es)
 - 🌐 Portafolio: [Ver proyectos en GitHub](https://github.com/Eduardo1300)
 
