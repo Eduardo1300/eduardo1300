@@ -9,7 +9,7 @@ Desarrollador Full Stack Junior con experiencia en desarrollo de sistemas web ut
 - 🔭 Actualmente desarrollando un sistema completo de **Tienda Online** (NestJS + React + PostgreSQL)
 - 🌱 Aprendiendo y usando **NestJS 11, PostgreSQL, TypeORM, JWT**
 - 📫 Contáctame: [eduardovaldivia130@outlook.es](mailto:eduardovaldivia130@outlook.es)
-- 🌐 Portafolio: [Ver proyectos en GitHub](https://github.com/Eduardo1300)
+- 💼 Portafolio: [Ver proyectos en GitHub](https://github.com/Eduardo1300)
 
 ---
 
