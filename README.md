@@ -31,7 +31,7 @@ Desarrollador Full Stack Junior con experiencia en desarrollo de sistemas web ut
 
 ### 📈 GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo1300&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo1300&show_icons=true&theme=radical&locale=es)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo1300&layout=compact&theme=radical)
 
 ---
