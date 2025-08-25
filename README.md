@@ -7,7 +7,7 @@ Desarrollador Full Stack Junior especializado en **Frontend** con React, TypeScr
 
 - 🔭 Actualmente desarrollando proyectos con **React + TypeScript + Tailwind CSS** en el frontend y **NestJS + PostgreSQL** en el backend.
 - 🌱 Aprendiendo y aplicando buenas prácticas de **DevOps**: GitHub Actions (CI/CD), Docker y testing con Jest.
-- 📫 Contáctame: [eduardovaldivia130@outlook.es](mailto:eduardovaldivia130@outlook.es)
+- 📫 Contáctame: [eduardovaldivia130@outlook.es](mailto:eduardovaldivia1300@gmail.com)
 - 💼 Portafolio: [Ver proyectos en GitHub](https://github.com/Eduardo1300?tab=repositories)
 
 ---
