@@ -36,22 +36,34 @@ Desarrollador Full Stack Junior especializado en **Frontend** con React, TypeScr
 
 ### 🧑‍💼 Experiencia profesional
 
-**🛠 DevDatep Consulting** – Desarrollador Low-Code (Practicante)  
-`Jun 2025 – Actualidad`  
-- Desarrollo de aplicaciones con Scriptcase.  
-- Automatización de reportes y módulos.  
+**🏢 NHL Decoración Comercial** – Líder del Área de Desarrollo Web (Practicante)  
+`Sep 2025 – Presente`  
+- Lideré la implementación de interfaces web basadas en *mockups*, desarrollando componentes dinámicos con **React**, **Tailwind CSS**, **Laravel (Blade)** y **Next.js (TypeScript/JSX)**.  
+- Implementé diseños responsivos y animaciones con **CSS**, **Tailwind** y **Framer Motion**, mejorando la experiencia de usuario.  
+- Optimicé rendimiento y SEO mediante compresión de recursos, uso de **hooks** (`useMemo`, `useCallback`) y mejoras en accesibilidad y semántica.  
+- Participé en revisiones técnicas, documentación interna y coordinación de equipo para asegurar entregas alineadas con la identidad visual corporativa.
+
+**⚙️ DevDatep Consulting** – Colíder del Área de Desarrollo Rápido de Aplicaciones (Practicante)  
+`Jun 2025 – Presente`  
+- Coordiné proyectos bajo metodologías ágiles (**Scrum**), liderando reuniones y distribuyendo tareas para entregas eficientes.  
+- Desarrollé aplicaciones empresariales y prototipos funcionales con **Jmix** (Java, Vaadin, Spring Boot, Spring Security, EclipseLink) e integré funcionalidades con **JavaScript**, **HTML**, **CSS** y **PHP (Scriptcase)**.  
+- Diseñé y administré bases de datos **MySQL**, asegurando integridad y escalabilidad.  
+- Colaboré en documentación técnica, control de versiones con **Git** y mejora continua de los procesos de desarrollo.
 
 **🎨 LicitApp** – Diseñador Web (Practicante)  
-`Jun 2025 – Actualidad`  
-- WordPress, HTML y CSS.  
-- UX/UI, diseño responsivo y mejora visual.
+`Jun 2025 – Sep 2025`  
+- Personalicé sitios web en **WordPress**, implementando funcionalidades con HTML, CSS y JavaScript.  
+- Optimicé interfaces visuales y diseños responsivos para navegación fluida en distintos dispositivos.  
+- Configuré y mantuve plugins y temas personalizados según requerimientos del cliente.  
+- Colaboré con equipos de diseño y desarrollo en UI/UX, pruebas funcionales y documentación técnica.
+
 
 ---
 
 ### 🎓 Formación Académica
 
 📚 **CIBERTEC – Instituto Superior Privado**  
-*Computación e Informática (5to ciclo)*  
+*Computación e Informática (6to ciclo)*  
 - Desarrollo Web  
 - Servicios REST  
 - Bases de Datos  
@@ -67,4 +79,4 @@ Desarrollador Full Stack Junior especializado en **Frontend** con React, TypeScr
 
 ---
 
-> ✨ *Gracias por visitar mi perfil. ¡Siempre dispuesto a aprender y colaborar en nuevos proyectos!*
+> *Gracias por visitar mi perfil. ¡Siempre dispuesto a aprender y colaborar en nuevos proyectos!*
